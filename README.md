@@ -1,0 +1,2 @@
+# Iterator
+Iteratorパターンの実装
